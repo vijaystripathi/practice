@@ -1,6 +1,6 @@
 package com.practice.algo.dp;
 
-public class KnapsackDP {
+public class Knapsack {
     public static void main(String[] args) {
         int[] weight={10, 20, 30};
         int[] value={60, 100, 120};
