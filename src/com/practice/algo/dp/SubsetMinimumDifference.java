@@ -56,6 +56,7 @@ public class SubsetMinimumDifference {
             if(nRow[l] != 0)
                 min = Math.min(min, sum-(2*l));
         }
+
         return min;
     }
 }
